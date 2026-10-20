@@ -1,7 +1,6 @@
 # JavaScript Assignments and Capstone Project
 
 ## Overview
-
 This repository contains JavaScript assignments and a capstone project developed to practice fundamental programming concepts. The assignments cover JavaScript basics, user input, operators, conditional statements, loops, functions, and array methods.
 
 The capstone project, **Interactive Product Inventory & Analytics Dashboard**, combines these concepts to manage products, calculate inventory values, and generate reports.
